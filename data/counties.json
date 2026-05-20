@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Baringo",
+    "crva": 0.0,
+    "raw": 2.2703,
+    "count": 437,
+    "area": 10925,
+    "risk": "Very Low",
+    "lat": 0.5,
+    "lng": 36.1
+  },
+  {
+    "name": "Bomet",
+    "crva": 0.269,
+    "raw": 3.3369,
+    "count": 93,
+    "area": 2325,
+    "risk": "Low",
+    "lat": -0.8,
+    "lng": 35.3
+  },
+  {
+    "name": "Bungoma",
+    "crva": 0.5069,
+    "raw": 4.2806,
+    "count": 118,
+    "area": 2950,
+    "risk": "Moderate",
+    "lat": 0.6,
+    "lng": 34.6
+  },
+  {
+    "name": "Busia",
+    "crva": 0.5451,
+    "raw": 4.4319,
+    "count": 51,
+    "area": 1275,
+    "risk": "Moderate",
+    "lat": 0.5,
+    "lng": 34.1
+  },
+  {
+    "name": "Elgeyo/Marakwet",
+    "crva": 0.0217,
+    "raw": 2.3563,
+    "count": 122,
+    "area": 3050,
+    "risk": "Very Low",
+    "lat": 0.8,
+    "lng": 35.5
+  },
+  {
+    "name": "Garissa",
+    "crva": 0.3854,
+    "raw": 3.7988,
+    "count": 1623,
+    "area": 40575,
+    "risk": "Low",
+    "lat": 0.5,
+    "lng": 39.6
+  },
+  {
+    "name": "Homa Bay",
+    "crva": 0.2723,
+    "raw": 3.35,
+    "count": 152,
+    "area": 3800,
+    "risk": "Low",
+    "lat": -0.5,
+    "lng": 34.5
+  },
+  {
+    "name": "Isiolo",
+    "crva": 0.3823,
+    "raw": 3.7864,
+    "count": 1013,
+    "area": 25325,
+    "risk": "Low",
+    "lat": 0.4,
+    "lng": 38.0
+  },
+  {
+    "name": "Kajiado",
+    "crva": 0.0345,
+    "raw": 2.407,
+    "count": 875,
+    "area": 21875,
+    "risk": "Very Low",
+    "lat": -2.1,
+    "lng": 36.8
+  },
+  {
+    "name": "Kakamega",
+    "crva": 0.5949,
+    "raw": 4.6296,
+    "count": 118,
+    "area": 2950,
+    "risk": "Moderate",
+    "lat": 0.3,
+    "lng": 34.8
+  },
+  {
+    "name": "Kericho",
+    "crva": 0.4213,
+    "raw": 3.9412,
+    "count": 104,
+    "area": 2600,
+    "risk": "Moderate",
+    "lat": -0.4,
+    "lng": 35.3
+  },
+  {
+    "name": "Kirinyaga",
+    "crva": 0.0893,
+    "raw": 2.6245,
+    "count": 60,
+    "area": 1500,
+    "risk": "Very Low",
+    "lat": -0.7,
+    "lng": 37.4
+  },
+  {
+    "name": "Kisii",
+    "crva": 0.5654,
+    "raw": 4.5125,
+    "count": 54,
+    "area": 1350,
+    "risk": "Moderate",
+    "lat": -0.7,
+    "lng": 34.8
+  },
+  {
+    "name": "Kisumu",
+    "crva": 0.521,
+    "raw": 4.3363,
+    "count": 108,
+    "area": 2700,
+    "risk": "Moderate",
+    "lat": -0.1,
+    "lng": 34.8
+  },
+  {
+    "name": "Kitui",
+    "crva": 0.1914,
+    "raw": 3.0294,
+    "count": 1214,
+    "area": 30350,
+    "risk": "Very Low",
+    "lat": -1.4,
+    "lng": 38.1
+  },
+  {
+    "name": "Kwale",
+    "crva": 0.2317,
+    "raw": 3.1892,
+    "count": 325,
+    "area": 8125,
+    "risk": "Low",
+    "lat": -4.2,
+    "lng": 39.3
+  },
+  {
+    "name": "Laikipia",
+    "crva": 0.0961,
+    "raw": 2.6513,
+    "count": 382,
+    "area": 9550,
+    "risk": "Very Low",
+    "lat": 0.4,
+    "lng": 36.8
+  },
+  {
+    "name": "Lamu",
+    "crva": 0.1922,
+    "raw": 3.0325,
+    "count": 183,
+    "area": 4575,
+    "risk": "Very Low",
+    "lat": -2.3,
+    "lng": 40.9
+  },
+  {
+    "name": "Mandera",
+    "crva": 0.6106,
+    "raw": 4.6916,
+    "count": 764,
+    "area": 19100,
+    "risk": "High",
+    "lat": 3.9,
+    "lng": 41.8
+  },
+  {
+    "name": "Marsabit",
+    "crva": 0.5694,
+    "raw": 4.5285,
+    "count": 2805,
+    "area": 70125,
+    "risk": "Moderate",
+    "lat": 2.3,
+    "lng": 37.9
+  },
+  {
+    "name": "Meru",
+    "crva": 0.2312,
+    "raw": 3.187,
+    "count": 280,
+    "area": 7000,
+    "risk": "Low",
+    "lat": 0.0,
+    "lng": 37.7
+  },
+  {
+    "name": "Migori",
+    "crva": 0.3772,
+    "raw": 3.766,
+    "count": 107,
+    "area": 2675,
+    "risk": "Low",
+    "lat": -1.1,
+    "lng": 34.4
+  },
+  {
+    "name": "Nakuru",
+    "crva": 0.2297,
+    "raw": 3.1811,
+    "count": 299,
+    "area": 7475,
+    "risk": "Low",
+    "lat": -0.3,
+    "lng": 36.1
+  },
+  {
+    "name": "Nandi",
+    "crva": 0.6541,
+    "raw": 4.8644,
+    "count": 115,
+    "area": 2875,
+    "risk": "High",
+    "lat": 0.2,
+    "lng": 35.1
+  },
+  {
+    "name": "Narok",
+    "crva": 0.264,
+    "raw": 3.3173,
+    "count": 714,
+    "area": 17850,
+    "risk": "Low",
+    "lat": -1.1,
+    "lng": 35.9
+  },
+  {
+    "name": "Nyamira",
+    "crva": 0.6839,
+    "raw": 4.9825,
+    "count": 36,
+    "area": 900,
+    "risk": "High",
+    "lat": -0.6,
+    "lng": 34.9
+  },
+  {
+    "name": "Nyandarua",
+    "crva": 0.1912,
+    "raw": 3.0287,
+    "count": 129,
+    "area": 3225,
+    "risk": "Very Low",
+    "lat": -0.2,
+    "lng": 36.6
+  },
+  {
+    "name": "Nyeri",
+    "crva": 0.2393,
+    "raw": 3.2193,
+    "count": 133,
+    "area": 3325,
+    "risk": "Low",
+    "lat": -0.4,
+    "lng": 36.9
+  },
+  {
+    "name": "Samburu",
+    "crva": 0.331,
+    "raw": 3.583,
+    "count": 847,
+    "area": 21175,
+    "risk": "Low",
+    "lat": 1.2,
+    "lng": 36.9
+  },
+  {
+    "name": "Siaya",
+    "crva": 0.5967,
+    "raw": 4.6368,
+    "count": 119,
+    "area": 2975,
+    "risk": "Moderate",
+    "lat": 0.1,
+    "lng": 34.3
+  },
+  {
+    "name": "Taita/Taveta",
+    "crva": 0.4153,
+    "raw": 3.9171,
+    "count": 681,
+    "area": 17025,
+    "risk": "Moderate",
+    "lat": -3.3,
+    "lng": 38.4
+  },
+  {
+    "name": "Tana River",
+    "crva": 0.7146,
+    "raw": 5.1042,
+    "count": 1567,
+    "area": 39175,
+    "risk": "High",
+    "lat": -1.5,
+    "lng": 40.1
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "crva": 0.3767,
+    "raw": 3.7644,
+    "count": 103,
+    "area": 2575,
+    "risk": "Low",
+    "lat": -0.3,
+    "lng": 37.9
+  },
+  {
+    "name": "Trans-Nzoia",
+    "crva": 0.4472,
+    "raw": 4.0439,
+    "count": 97,
+    "area": 2425,
+    "risk": "Moderate",
+    "lat": 1.1,
+    "lng": 35.0
+  },
+  {
+    "name": "Turkana",
+    "crva": 0.6471,
+    "raw": 4.8365,
+    "count": 2105,
+    "area": 52625,
+    "risk": "High",
+    "lat": 3.5,
+    "lng": 35.8
+  },
+  {
+    "name": "Uasin Gishu",
+    "crva": 0.3969,
+    "raw": 3.8442,
+    "count": 134,
+    "area": 3350,
+    "risk": "Low",
+    "lat": 0.6,
+    "lng": 35.3
+  },
+  {
+    "name": "Vihiga",
+    "crva": 1.0,
+    "raw": 6.2361,
+    "count": 23,
+    "area": 575,
+    "risk": "Very High",
+    "lat": 0.1,
+    "lng": 34.7
+  },
+  {
+    "name": "Wajir",
+    "crva": 0.8271,
+    "raw": 5.5502,
+    "count": 2274,
+    "area": 56850,
+    "risk": "Very High",
+    "lat": 1.7,
+    "lng": 40.1
+  },
+  {
+    "name": "West Pokot",
+    "crva": 0.3508,
+    "raw": 3.6614,
+    "count": 365,
+    "area": 9125,
+    "risk": "Low",
+    "lat": 1.7,
+    "lng": 35.1
+  },
+  {
+    "name": "Mombasa",
+    "crva": 0.5404,
+    "raw": 4.4133,
+    "count": 8,
+    "area": 200,
+    "risk": "Moderate",
+    "lat": -4.1,
+    "lng": 39.7
+  },
+  {
+    "name": "Kilifi",
+    "crva": 0.5021,
+    "raw": 4.2616,
+    "count": 496,
+    "area": 12400,
+    "risk": "Moderate",
+    "lat": -3.6,
+    "lng": 39.8
+  },
+  {
+    "name": "Embu",
+    "crva": 0.388,
+    "raw": 3.8091,
+    "count": 115,
+    "area": 2875,
+    "risk": "Low",
+    "lat": -0.5,
+    "lng": 37.5
+  },
+  {
+    "name": "Makueni",
+    "crva": 0.4111,
+    "raw": 3.9006,
+    "count": 332,
+    "area": 8300,
+    "risk": "Moderate",
+    "lat": -2.3,
+    "lng": 37.8
+  },
+  {
+    "name": "Nairobi",
+    "crva": 0.3784,
+    "raw": 3.771,
+    "count": 30,
+    "area": 750,
+    "risk": "Low",
+    "lat": -1.3,
+    "lng": 36.8
+  },
+  {
+    "name": "Machakos",
+    "crva": 0.41,
+    "raw": 3.8963,
+    "count": 240,
+    "area": 6000,
+    "risk": "Moderate",
+    "lat": -1.5,
+    "lng": 37.3
+  },
+  {
+    "name": "Kiambu",
+    "crva": 0.4234,
+    "raw": 3.9493,
+    "count": 102,
+    "area": 2550,
+    "risk": "Moderate",
+    "lat": -1.0,
+    "lng": 36.8
+  },
+  {
+    "name": "Muranga",
+    "crva": 0.4758,
+    "raw": 4.1572,
+    "count": 98,
+    "area": 2450,
+    "risk": "Moderate",
+    "lat": -0.7,
+    "lng": 37.1
+  }
+]
