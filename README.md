@@ -154,7 +154,7 @@ kenya-crva/
 
 | Item | Detail |
 |---|---|
-| **Commissioned by** | UNEP Kenya Country Office |
+| **Commissioned by** | WISK under Mr Edwin. |
 | **Programme** | WiSK Mentorship Programme |
 | **Date** | May 2026 |
 | **Geographic scope** | Kenya — all 47 counties |
@@ -166,7 +166,7 @@ kenya-crva/
 
 ## 📄 License
 
-This project was produced for UNEP Kenya under the WiSK Mentorship Programme. Data and outputs are intended for research, policy, and educational use.
+This project was produced under the WiSK Mentorship Programme. Data and outputs are intended for research, policy, and educational use.
 
 ---
 
