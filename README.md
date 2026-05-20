@@ -1,15 +1,14 @@
 # Kenya Climate Risk & Vulnerability Assessment (CRVA)
 
 > **An interactive web dashboard mapping climate risk across all 47 counties of Kenya**
-> Commissioned by UNEP Kenya Country Office · WiSK Mentorship Programme · 2026
+> WiSK Mentorship Programme · 2026
 
 ---
 
 ## 🌍 Live Dashboard
 
-**[View the interactive map →](https://yourusername.github.io/kenya-crva)**
+**[View the interactive map →](https://nxrth1.github.io/kenya-crva)**
 
-> Replace `yourusername` with your actual GitHub username after publishing.
 
 ---
 
@@ -173,7 +172,6 @@ This project was produced for UNEP Kenya under the WiSK Mentorship Programme. Da
 
 ## 🙏 Acknowledgements
 
-- **UNEP Kenya Country Office** — project commissioning and oversight
 - **WiSK Mentorship Programme** — technical guidance and supervision
 - **KNBS** — 2019 Kenya Population and Housing Census data
 - **UCSB Climate Hazards Group** — CHIRPS rainfall dataset
